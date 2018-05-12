@@ -1,0 +1,31 @@
+_repo: Home-Taxidermy-for-Pleasure-and-ProfitA-Guide-for-Those-Who-Wish-to-Prepare-and-Mount-Animals__23259
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 23259-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Farnham, Albert Burton
+    birthdate: 1870
+    gutenberg_agent_id: '25779'
+    url: http://www.gutenberg.org/2009/agents/25779
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Trapping
+- Crafts
+gutenberg_issued: '2007-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23259'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Taxidermy'
+title: 'Home Taxidermy for Pleasure and Profit
+
+  A Guide for Those Who Wish to Prepare and Mount Animals, Birds, Fish, Reptiles,
+  etc., for Home, Den, or Office Decoration'
+url: http://www.gutenberg.org/ebooks/23259
