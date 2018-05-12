@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '25779'
     url: http://www.gutenberg.org/2009/agents/25779
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23259#Home-Taxidermy-for-Pleasure-and-ProfitA-Guide-for-Those-Who-Wish-to-Prepare-and-Mount-Animals_
 gutenberg_bookshelf:
 - Animals-Wild-Trapping
 - Crafts
